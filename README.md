@@ -1,1 +1,2 @@
 # sql-scripts
+MySQL (default)
